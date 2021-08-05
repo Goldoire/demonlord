@@ -212,6 +212,17 @@
       "groups": {
         "Kanojo Scans": "/proxy/api/imgur/chapter/A0QKQXJ/"
       }
+    },
+    "18": {
+      "title": "18",
+      "volume": "1",
+      "last_updated": "1628204423",
+      "groups": {
+        "Kanojo Scans": [
+          "https://i.redd.it/cfg7xqbqcmf71.png",
+          "https://i.redd.it/ssrfzxbqcmf71.png"
+        ]
+      }
     }
   }
 }
